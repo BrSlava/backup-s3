@@ -1,4 +1,4 @@
-module main
+module github.com/brslava/backup-s3
 
 go 1.20
 

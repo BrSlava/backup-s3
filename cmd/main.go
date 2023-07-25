@@ -1,4 +1,3 @@
-// Asterisk telegraf plugin gather asterisk functional data from a server
 package main
 
 import (
