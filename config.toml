@@ -1,0 +1,6 @@
+[[inputs.asterisk]]
+##Sample Config
+  #asterisk_ip = "0.0.0.0"
+  #ami_port = 5038
+  #ami_user = "user"
+  #ami_password = "password"
